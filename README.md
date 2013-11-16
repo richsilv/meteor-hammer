@@ -14,17 +14,17 @@ This Meteor package contains the latest hammer.js main library and the jQuery pl
 Create a Hammer instance:
 
 ```javascript
-  var hammer = $('#nav').hammer();
+var hammer = $('#nav').hammer();
 ````
 
 Bind listeners:
 
 ```javascript
-  hammer.on('tap', function(e) {
-    e.stopPropagation();
-    
-    console.log('This did just happen.');
-  });
+hammer.on('tap', function(e) {
+  e.stopPropagation();
+  
+  console.log('This did just happen.');
+});
 ````
 
 ## Documentation
