@@ -1,4 +1,4 @@
-# Hammer.js
+# Hammer.js for Meteor
 
 A javascript library for multi-touch gestures.
 
@@ -15,7 +15,7 @@ Create a Hammer instance:
 
 ```javascript
 var hammer = $('#nav').hammer();
-````
+```
 
 Bind listeners:
 
@@ -25,7 +25,7 @@ hammer.on('tap', function(e) {
   
   console.log('This did just happen.');
 });
-````
+```
 
 ## Documentation
 
