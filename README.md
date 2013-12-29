@@ -2,7 +2,7 @@
 
 A javascript library for multi-touch gestures.
 
-This Meteor package contains the latest hammer.js main library and the jQuery plugin.
+This Meteor package contains the latest stable release of the [hammer.js main library](https://github.com/EightMedia/hammer.js) and the [jQuery plugin](https://github.com/EightMedia/jquery.hammer.js).
 
 ## How to install
 
