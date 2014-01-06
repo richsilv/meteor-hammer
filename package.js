@@ -4,5 +4,5 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.use('jquery', 'client');
-  api.add_files(['hammer/dist/hammer.js', 'hammer/dist/jquery.hammer.js'], 'client');
+  api.add_files(['jquery.hammer/jquery.hammer.js', 'jquery.hammer/hammer.js/hammer.js'], 'client');
 });
