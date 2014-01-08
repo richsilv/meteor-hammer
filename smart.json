@@ -1,9 +1,9 @@
 {
   "name": "hammer",
-  "description": "The Hammer multi-touch gestures library packaged for Meteor.",
+  "description": "A javascript library for multi-touch gestures",
   "homepage": "https://github.com/noorderstorm/meteor-hammer",
   "author": "Richard Venneman <richard@noorderstorm.com> (http://noorderstorm.com)",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "git": "https://github.com/noorderstorm/meteor-hammer.git",
   "packages": {}
 }
